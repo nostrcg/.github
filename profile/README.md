@@ -6,7 +6,7 @@ Nostr CG is the git repository for the [W3C Nostr Community Group](https://www.w
 
 Below are some of the repositories in our organization:
 
-- [schema](./schema) - Schema and context for the Nostr Linked Data Vocab
+- [schema](https://github.com/nostrcg/schema) - Schema and context for the Nostr Linked Data Vocab
 
 ## Get in Touch 📧
 
