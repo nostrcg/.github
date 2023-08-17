@@ -1,6 +1,6 @@
 # Welcome to Nostr CG 👋
 
-Nostr CG is the git repository for the [W3C Nostr Community Group](https://www.w3.org/community/nostr/).  The aim of this group is to document and explore the intersectoin of [Nostr](https://github.com/nostr-protocol/nostr) with existing web standards.
+Nostr CG is the git repository for the [W3C Nostr Community Group](https://www.w3.org/community/nostr/).  The aim of this group is to document and explore the intersection of [Nostr](https://github.com/nostr-protocol/nostr) with existing web standards.
 
 ## Repositories 📚
 
