@@ -38,6 +38,10 @@ If you want to propose something new, here’s how:
 
 This keeps things flexible while making sure work items have enough backing to be useful.
 
+## 📝 Submitting Work Items
+
+We welcome new proposals and contributions. Please see [Work Item Guidelines](WORK_ITEM_GUIDELINES.md) as a potential way to get started.
+
 ## Get in Touch 📧
 
 For broader discussions, you can also join the [W3C Nostr CG mailing list](https://lists.w3.org/Archives/Public/public-nostr/).
