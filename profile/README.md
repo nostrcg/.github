@@ -8,6 +8,7 @@ Below are some of the repositories in our organization:
 
 - [schema](https://github.com/nostrcg/schema) - Schema and context for the Nostr Linked Data Vocab
 - [did-nostr](https://github.com/nostrcg/did-nostr) - Nostr DID method Specification
+- [http-schnorr-auth](https://github.com/nostrcg/http-schnorr-auth) - HTTP Authentication Using Schnorr Signatures
 
 ## Work Items
 
